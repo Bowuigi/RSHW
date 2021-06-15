@@ -15,7 +15,7 @@ To install just
 
 Or if you would like to install it locally
 
-`DESTDIR=~/.local/bin make install`
+`make install DESTDIR=~/.local/bin`
 
 And run it with
 
