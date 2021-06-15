@@ -1,6 +1,7 @@
+#include <stdlib.h>
+#include <stdio.h>
 #include <readline/readline.h>
 #include <readline/history.h>
-#include <stdlib.h>
 
 /*
  * Simple readline wrapper to dash, or any minimalist shell
