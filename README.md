@@ -13,6 +13,10 @@ To install just
 
 `sudo make install`
 
+Or if you would like to install it locally
+
+`DESTDIR=~/.local/bin make install`
+
 And run it with
 
 `rshw`
